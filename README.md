@@ -8,5 +8,9 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapNuka/OngleapNuka.ttf") format("truetype");
     font-display: swap;
 }
+
+.OngleapNuka {
+    font-family: "OngleapNuka";
+}
 </pre>
 
